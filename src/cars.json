@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Acura",
+      "image": "acura.jpg"
+    },
+    {
+      "id": 2,
+      "name": "BMW",
+      "image": "bmw.jpg"    
+    },
+    {
+      "id": 3,
+      "name": "Dodge",
+      "image": "dodge.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ford",
+      "image": "ford.jpg" 
+    },
+    {
+      "id": 5,
+      "name": "Honda",
+      "image": "honda.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hyundai",
+      "image": "hyundai.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jeep",
+      "image": "jeep.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Landrover",
+      "image": "landrover.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lexus",
+      "image": "lexus.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Maserati",
+      "image": "maserati.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Mercedes",
+      "image": "mercedes.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Toyota",
+      "image": "toyota.jpg"
+    }
+  ]
