@@ -87,8 +87,8 @@ class App extends Component {
   };
 
   alreadyClickedCar = (carClicked) => {
-    for (let index = 0; index < this.state.clickedCar.length; index++) {
-      if (this.state.clickedCar[index] === carClicked) {
+    for (let i = 0; i < this.state.clickedCar.length; i++) {
+      if (this.state.clickedCar[i] === carClicked) {
         return true;
       }
     }
